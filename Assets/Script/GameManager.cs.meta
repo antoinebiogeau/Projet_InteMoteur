@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b0793b78a89145b4a8614808f6c413d5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - camera1: {fileID: 1186030402486932434, guid: 7afa3c9a7756382469eefacd0c834a7d,
+      type: 3}
+  - camera2: {fileID: 8540542287891266007, guid: 17c2be235b8bb1247a4eba2561e3d5f6,
+      type: 3}
+  - camera3: {fileID: 7034461440866108628, guid: 8d513ebef8274864695de42063db956c,
+      type: 3}
+  - SceneKelyan: {fileID: 5119292087404007068, guid: c7b71a83c354fb644998c2dbde789121,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
